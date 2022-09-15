@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897724979652",
+    "project_id": "esign-c535b",
+    "storage_bucket": "esign-c535b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897724979652:android:d60afb1e101f4f5800ec91",
+        "android_client_info": {
+          "package_name": "com.vibeviroma.esign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897724979652-gkg3g8rpe9ne74h9bi02n5f53jmkl5je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibeviroma.esign",
+            "certificate_hash": "8c84b50db63bb1bfbe435e82f17346bdbc320a88"
+          }
+        },
+        {
+          "client_id": "897724979652-55g1bdoumisll2fll856jhrjjukffdvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKW7abPGy6-sYMHOnKnbLgR5Zj67Yh_rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897724979652-55g1bdoumisll2fll856jhrjjukffdvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

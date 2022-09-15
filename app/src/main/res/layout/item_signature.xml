@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="150dp"
+    android:padding="10dp"
+
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content">
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@mipmap/logo"
+        android:layout_gravity="center_horizontal"
+        app:riv_corner_radius="10dp"
+        android:id="@+id/img_sign"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="2"
+        android:minLines="2"
+        android:layout_marginTop="3dp"
+        android:gravity="center"
+        android:text="Fond Transparent\n12-12-12 14:45"
+        android:id="@+id/leg"/>
+
+
+</LinearLayout>
